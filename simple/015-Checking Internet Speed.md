@@ -23,3 +23,9 @@ download_speed = speedtest.Speedtest()
 print(f'Download speed is {download_speed.upload() / 8000000:.f}MB')
 
 ```
+
+- You can also use  the folowing command on the command line to get your internet info
+
+```bash
+speedtest
+```
