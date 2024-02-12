@@ -1,7 +1,7 @@
 ## Flatten-Nested-List
 - To flatten nested list we can use three methods
 
-### 1 By using for loop and extend
+### 1. By using for loop and extend
 
 ```python
 
